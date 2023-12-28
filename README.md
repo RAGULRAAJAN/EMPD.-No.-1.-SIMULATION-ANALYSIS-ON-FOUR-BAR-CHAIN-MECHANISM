@@ -52,7 +52,7 @@
 ![Screenshot 2023-12-28 143746](https://github.com/RAGULRAAJAN/EMPD.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147473144/3e0a9e14-6ffa-4c68-9a1a-b72dd83fd666)
 
 ### Name:RAGUL RAAJAN .T
-### Register Number: 23007752
+### Register Number: 212223100043
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
